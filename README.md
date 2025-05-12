@@ -1,17 +1,18 @@
 # Hi there 👋, I'm Pluscuamperfecto
 
 ## About Me
-🕵️‍♂️ **Interests:** I am passionate about OSINT, Web Hacking, and System Administration, constantly seeking to deepen my knowledge and skills in these areas.
 
-🚀 **Current Focus:** I am actively working on enhancing my expertise in cloud infrastructure and automation, aiming to streamline processes and improve efficiency.
+🧠 **Interests**: I love poking around where I probably shouldn't… as long as it's legal. OSINT, web hacking, and system administration are my playground. If it can break, chances are I'm already reverse-engineering it.
 
-🤝 **Collaboration:** I am eager to collaborate on open-source projects, particularly those related to cybersecurity and DevOps. Let's build something amazing together!
+🚀 **Current Focus**: Currently in full cloud ninja mode—automating infrastructure like there's no tomorrow. If I do something more than twice manually, I'm scripting it before you blink.
 
-💡 **Ask Me About:** Feel free to ask me about Linux, networking, security, and cloud services. I'm always happy to share my knowledge and learn from others.
+🤝 **Collaboration**: If your project involves cybersecurity, DevOps, or Linux magic, I’m all in. I enjoy building cool stuff, breaking it (on purpose), and making it even better.
 
-📩 **How to Reach Me:** You can find me at a local bar enjoying a craft beer, or connect with me on [LinkedIn](https://www.youtube.com/watch?v=xvFZjo5PgG0) for a more professional conversation.
+💡 **Ask Me About**: Linux, networking, security, cloud services… or how to survive a production deployment with your sanity intact. I'm always up for learning something new—or teaching something old in a new way.
 
-⚡ **Fun Fact:** I can troubleshoot a server issue before my morning coffee! It's all about the adrenaline and the challenge.
+📩 **How to Reach Me**: When I’m not glued to a terminal, you’ll probably find me at a local bar enjoying a craft beer. For more professional vibes (or memes), let’s connect on [LinkedIn](https://www.youtube.com/watch?v=xvFZjo5PgG0).
+
+⚡ **Fun Fact**: I can troubleshoot a zombie server before my first coffee. Years of scars—and a finely tuned .bashrc—make it possible.
 
 ## My Skills
 
